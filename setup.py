@@ -30,7 +30,7 @@ setup(
         'python-dateutil',
         'PyStaticConfiguration',
         'pyyaml',
-        'simplejson',
+        'simplejson==3.3.0',
         'boto',
         'botocore',
         'blist',
